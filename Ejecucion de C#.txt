@@ -1,0 +1,7 @@
+en una terminal en la carpeta de trabajo de c#, escribir:
+
+proyecto nuevo: dotnet new console -o carpeta(del proyecto a crear)
+
+para ejecutar el proyecto: dotnet run
+
+para crear el proyecto en un archivo ejecutable: dotnet build

@@ -1,0 +1,14 @@
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\Espar\bin\Debug\net7.0\Espar.exe
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\Espar\bin\Debug\net7.0\Espar.deps.json
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\Espar\bin\Debug\net7.0\Espar.runtimeconfig.json
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\Espar\bin\Debug\net7.0\Espar.dll
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\Espar\bin\Debug\net7.0\Espar.pdb
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\Espar\obj\Debug\net7.0\Espar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\Espar\obj\Debug\net7.0\Espar.AssemblyInfoInputs.cache
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\Espar\obj\Debug\net7.0\Espar.AssemblyInfo.cs
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\Espar\obj\Debug\net7.0\Espar.csproj.CoreCompileInputs.cache
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\Espar\obj\Debug\net7.0\Espar.dll
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\Espar\obj\Debug\net7.0\refint\Espar.dll
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\Espar\obj\Debug\net7.0\Espar.pdb
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\Espar\obj\Debug\net7.0\Espar.genruntimeconfig.cache
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\Espar\obj\Debug\net7.0\ref\Espar.dll

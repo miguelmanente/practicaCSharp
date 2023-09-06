@@ -1,0 +1,14 @@
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FormatoDatoSalida\obj\Debug\net7.0\FormatoDatoSalida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FormatoDatoSalida\obj\Debug\net7.0\FormatoDatoSalida.AssemblyInfoInputs.cache
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FormatoDatoSalida\obj\Debug\net7.0\FormatoDatoSalida.AssemblyInfo.cs
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FormatoDatoSalida\obj\Debug\net7.0\FormatoDatoSalida.csproj.CoreCompileInputs.cache
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FormatoDatoSalida\bin\Debug\net7.0\FormatoDatoSalida.exe
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FormatoDatoSalida\bin\Debug\net7.0\FormatoDatoSalida.deps.json
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FormatoDatoSalida\bin\Debug\net7.0\FormatoDatoSalida.runtimeconfig.json
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FormatoDatoSalida\bin\Debug\net7.0\FormatoDatoSalida.dll
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FormatoDatoSalida\bin\Debug\net7.0\FormatoDatoSalida.pdb
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FormatoDatoSalida\obj\Debug\net7.0\FormatoDatoSalida.dll
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FormatoDatoSalida\obj\Debug\net7.0\refint\FormatoDatoSalida.dll
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FormatoDatoSalida\obj\Debug\net7.0\FormatoDatoSalida.pdb
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FormatoDatoSalida\obj\Debug\net7.0\FormatoDatoSalida.genruntimeconfig.cache
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FormatoDatoSalida\obj\Debug\net7.0\ref\FormatoDatoSalida.dll

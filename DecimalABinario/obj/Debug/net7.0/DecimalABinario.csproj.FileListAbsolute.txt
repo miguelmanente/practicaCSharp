@@ -1,0 +1,14 @@
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\DecimalABinario\bin\Debug\net7.0\DecimalABinario.exe
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\DecimalABinario\bin\Debug\net7.0\DecimalABinario.deps.json
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\DecimalABinario\bin\Debug\net7.0\DecimalABinario.runtimeconfig.json
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\DecimalABinario\bin\Debug\net7.0\DecimalABinario.dll
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\DecimalABinario\bin\Debug\net7.0\DecimalABinario.pdb
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\DecimalABinario\obj\Debug\net7.0\DecimalABinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\DecimalABinario\obj\Debug\net7.0\DecimalABinario.AssemblyInfoInputs.cache
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\DecimalABinario\obj\Debug\net7.0\DecimalABinario.AssemblyInfo.cs
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\DecimalABinario\obj\Debug\net7.0\DecimalABinario.csproj.CoreCompileInputs.cache
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\DecimalABinario\obj\Debug\net7.0\DecimalABinario.dll
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\DecimalABinario\obj\Debug\net7.0\refint\DecimalABinario.dll
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\DecimalABinario\obj\Debug\net7.0\DecimalABinario.pdb
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\DecimalABinario\obj\Debug\net7.0\DecimalABinario.genruntimeconfig.cache
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\DecimalABinario\obj\Debug\net7.0\ref\DecimalABinario.dll
