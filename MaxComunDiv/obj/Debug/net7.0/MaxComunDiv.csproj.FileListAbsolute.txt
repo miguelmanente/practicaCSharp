@@ -1,0 +1,14 @@
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\MaxComunDiv\obj\Debug\net7.0\MaxComunDiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\MaxComunDiv\obj\Debug\net7.0\MaxComunDiv.AssemblyInfoInputs.cache
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\MaxComunDiv\obj\Debug\net7.0\MaxComunDiv.AssemblyInfo.cs
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\MaxComunDiv\obj\Debug\net7.0\MaxComunDiv.csproj.CoreCompileInputs.cache
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\MaxComunDiv\bin\Debug\net7.0\MaxComunDiv.exe
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\MaxComunDiv\bin\Debug\net7.0\MaxComunDiv.deps.json
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\MaxComunDiv\bin\Debug\net7.0\MaxComunDiv.runtimeconfig.json
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\MaxComunDiv\bin\Debug\net7.0\MaxComunDiv.dll
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\MaxComunDiv\bin\Debug\net7.0\MaxComunDiv.pdb
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\MaxComunDiv\obj\Debug\net7.0\MaxComunDiv.dll
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\MaxComunDiv\obj\Debug\net7.0\refint\MaxComunDiv.dll
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\MaxComunDiv\obj\Debug\net7.0\MaxComunDiv.pdb
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\MaxComunDiv\obj\Debug\net7.0\MaxComunDiv.genruntimeconfig.cache
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\MaxComunDiv\obj\Debug\net7.0\ref\MaxComunDiv.dll
