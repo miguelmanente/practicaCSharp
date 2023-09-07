@@ -1,0 +1,14 @@
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FuncionMath\bin\Debug\net7.0\FuncionMath.exe
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FuncionMath\bin\Debug\net7.0\FuncionMath.deps.json
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FuncionMath\bin\Debug\net7.0\FuncionMath.runtimeconfig.json
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FuncionMath\bin\Debug\net7.0\FuncionMath.dll
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FuncionMath\bin\Debug\net7.0\FuncionMath.pdb
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FuncionMath\obj\Debug\net7.0\FuncionMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FuncionMath\obj\Debug\net7.0\FuncionMath.AssemblyInfoInputs.cache
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FuncionMath\obj\Debug\net7.0\FuncionMath.AssemblyInfo.cs
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FuncionMath\obj\Debug\net7.0\FuncionMath.csproj.CoreCompileInputs.cache
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FuncionMath\obj\Debug\net7.0\FuncionMath.dll
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FuncionMath\obj\Debug\net7.0\refint\FuncionMath.dll
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FuncionMath\obj\Debug\net7.0\FuncionMath.pdb
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FuncionMath\obj\Debug\net7.0\FuncionMath.genruntimeconfig.cache
+C:\Users\manen\OneDrive\Escritorio\ProyectosC#\FuncionMath\obj\Debug\net7.0\ref\FuncionMath.dll
